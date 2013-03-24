@@ -11,8 +11,8 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 IUSE=""
 
-RDEPEND="x11-libs/qt-core:4
-	x11-libs/qt-gui:4
+RDEPEND="dev-qt/qtcore:4
+	dev-qt/qtgui:4
 	>=app-text/poppler-0.18[qt4]"
 DEPEND="${RDEPEND}
 	app-text/asciidoc"
