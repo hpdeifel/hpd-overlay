@@ -4,7 +4,7 @@ inherit qt4-r2 git-2
 
 DESCRIPTION="Simple PDF viewer with two layouts"
 HOMEPAGE="http://git.cs.fau.de/?p=katarakt"
-EGIT_REPO_URI="git://git.informatik.uni-erlangen.de/${PN}"
+EGIT_REPO_URI="https://git.cs.fau.de/${PN}"
 
 LICENSE="BSD-2"
 SLOT="0"
